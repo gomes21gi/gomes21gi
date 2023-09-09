@@ -2,8 +2,8 @@
 🌱 Atualmente estou aprendendo HTML, CSS e JavaScript, PHP, MySQL<br><br>🤝Procuro ajuda com Bombeiros/Sa<br><br>📫 Como entrar em contato comigo 2006.giovanaluiza.celular@gmail.com
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gomes21gi&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=gomes21gi&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=gomes21gi&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=gomes21gi&theme=midnight-purple&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gomes21gi&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🌐 Socials:
